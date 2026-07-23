@@ -1,17 +1,61 @@
 {
   "app": {
-    "title": "PhotoStudio"
+    "title": "照片工坊",
+    "tagline": "數秒內創造驚艷相片"
   },
   "home": {
-    "greeting": "歡迎回來!"
+    "greeting": "歡迎回來!",
+    "subtitle": "用 AI 工具編輯你的相片。",
+    "userGreeting": "嗨 {{userName}}，準備好創作了嗎？",
+    "lastLogin": "上次登入時間：{{date}}"
   },
   "photos": {
-    "count_one": "{count} 張相片"
+    "count_one": "{count} 張相片",
+    "count_other": "{count} 張相片",
+    "selected_zero": "未選取任何相片",
+    "selected_one": "已選取 {count} 張相片",
+    "selected_other": "已選取 {count} 張相片"
   },
   "misc": {
-    "ok": "確定"
+    "ok": "確定",
+    "cancel": "取消"
   },
   "dialog": {
-    "confirm": "確定"
+    "confirm": "確定",
+    "discard": "要捨棄變更嗎？"
+  },
+  "cart": {
+    "itemCount": "你的購物車中有 {count} 項商品。",
+    "total": "總計：{amount}"
+  },
+  "upload": {
+    "progress": "已上傳 %s 個檔案，共 %s 個。",
+    "failed": "上傳失敗。請再試一次。"
+  },
+  "order": {
+    "summary": "%1$s 於 %3$s 訂購了 %2$d 項商品。",
+    "shipped": "你的訂單 #%1$d 已出貨。"
+  },
+  "notif": {
+    "combo": "{{name}} 對你的相片按讚 %d 次。"
+  },
+  "settings": {
+    "profile": {
+      "title": "個人檔案設定",
+      "bioPlaceholder": "請簡單介紹你自己"
+    },
+    "notifications": {
+      "email": {
+        "label": "電子郵件通知",
+        "description": "透過電子郵件接收最新消息與優惠"
+      }
+    }
+  },
+  "edge": {
+    "padded": " 儲存 ",
+    "longText": "PhotoStudio 利用裝置上的機器學習自動偵測人臉、去除背景並增強光線，讓你無需打開複雜的編輯器或付費訂閱，也能將普通快照變成專業人像。",
+    "emoji": "點擊 ❤️ 儲存 · 今日全免，盡情享受！🎉",
+    "html": "在繼續前請閱讀我們的<b>條款</b>與<a href=\"/tos\">條件</a>。",
+    "quotes": "她說「cheese!」，大家都笑了。"
   }
 }
