@@ -51,6 +51,13 @@
     "confirm": "OK",
     "discard": "Discard changes?"
   },
+  "tmFuzzy": {
+    "baseline": "Cancel Order",
+    "baselineVariant": "Cancel Order Immediately",
+    "similarLonger": "Please Cancel Order before it ships today",
+    "similarShorter": "Cancel",
+    "unrelated": "The weather today is sunny with a light breeze"
+  },
   "edge": {
     "empty": "",
     "whitespaceOnly": "   ",
