@@ -1,6 +1,67 @@
 {
-"test.key.01":"Test Key 01",
-"test.key.02":"Test Key 02",
-"test.glossary.01":"YouCam Makeup",
-"test.glossary.02":"YMK"
+  "app": {
+    "title": "PhotoStudio",
+    "tagline": "Create stunning photos in seconds"
+  },
+  "home": {
+    "greeting": "Welcome back!",
+    "subtitle": "Edit your photos with AI-powered tools.",
+    "userGreeting": "Hi {{userName}}, ready to create something?",
+    "lastLogin": "Last login: {{date}}"
+  },
+  "cart": {
+    "itemCount": "You have {count} items in your cart.",
+    "total": "Total: {amount}"
+  },
+  "upload": {
+    "progress": "Uploaded %s of %s files.",
+    "failed": "Upload failed. Please try again."
+  },
+  "order": {
+    "summary": "%1$s ordered %2$d items on %3$s.",
+    "shipped": "Your order #%1$d has shipped."
+  },
+  "notif": {
+    "combo": "{{name}} liked your photo %d times."
+  },
+  "photos": {
+    "count_one": "{count} photo",
+    "count_other": "{count} photos",
+    "selected_zero": "No photos selected",
+    "selected_one": "{count} photo selected",
+    "selected_other": "{count} photos selected"
+  },
+  "settings": {
+    "profile": {
+      "title": "Profile settings",
+      "bioPlaceholder": "Tell us about yourself"
+    },
+    "notifications": {
+      "email": {
+        "label": "Email notifications",
+        "description": "Receive updates and offers by email"
+      }
+    }
+  },
+  "misc": {
+    "ok": "OK",
+    "cancel": "Cancel"
+  },
+  "dialog": {
+    "confirm": "OK",
+    "discard": "Discard changes?"
+  },
+  "edge": {
+    "empty": "",
+    "whitespaceOnly": "   ",
+    "padded": " Save ",
+    "multiline": "Line one.\nLine two.\nLine three.",
+    "longText": "PhotoStudio uses on-device machine learning to detect faces, remove backgrounds, and enhance lighting automatically, so you can turn an ordinary snapshot into a professional-looking portrait without ever opening a complex editor or paying for a subscription.",
+    "emoji": "Tap ❤️ to save · 100% off today — enjoy! 🎉",
+    "html": "Read our <b>terms</b> &amp; <a href=\"/tos\">conditions</a> before you continue.",
+    "url": "https://example.com/help",
+    "version": "v2.4.1",
+    "quotes": "She said \"cheese!\" and everyone smiled.",
+    "icuLiteral": "{count, plural, one {# item} other {# items}}"
+  }
 }

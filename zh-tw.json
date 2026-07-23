@@ -1,3 +1,14 @@
 {
-
+  "app": {
+    "title": "PhotoStudio"
+  },
+  "home": {
+    "greeting": "歡迎回來!"
+  },
+  "photos": {
+    "count_one": "{count} 張相片"
+  },
+  "misc": {
+    "ok": "確定"
+  }
 }
