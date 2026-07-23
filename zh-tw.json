@@ -57,5 +57,12 @@
     "emoji": "點擊 ❤️ 儲存 · 今日全免，盡情享受！🎉",
     "html": "在繼續前請閱讀我們的<b>條款</b>與<a href=\"/tos\">條件</a>。",
     "quotes": "她說「cheese!」，大家都笑了。"
+  },
+  "tmFuzzy": {
+    "baseline": "取消訂單",
+    "baselineVariant": "立即取消訂單",
+    "similarLonger": "請在今天出貨前取消訂單",
+    "similarShorter": "取消",
+    "unrelated": "今天天氣晴朗，微風徐徐"
   }
 }
